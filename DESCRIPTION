@@ -1,0 +1,11 @@
+Package: Raoc2023
+Type: Package
+Title: This package contains various functions to solve 2023 puzzles on adventofcode.com
+Version: 0.1.0
+Author: Zeynep Kurkcuoglu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Scripts to solve auc2023 puzzles 
+    So far, answers for q1-8, where only first: part of q5 is present
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
